@@ -1,0 +1,6 @@
+{
+  "name": "Kumkum Fancy Dress",
+  "description": "A professional, child-friendly, and responsive website for Kumkum Fancy Dress costumes rentals and purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
